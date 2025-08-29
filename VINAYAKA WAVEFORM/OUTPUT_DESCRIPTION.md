@@ -9,3 +9,4 @@ I’m excited to keep pushing boundaries in ASIC and FPGA designs, turning ideas
 
 <img width="1414" height="2000" alt="Image" src="https://github.com/user-attachments/assets/5f0237d9-1e1c-4013-8420-696c8b193190" />
 <img width="1414" height="2000" alt="Image" src="https://github.com/user-attachments/assets/dd5ebd9d-e9d1-4802-a745-90dcb3520d88" />
+<img width="725" height="761" alt="Image" src="https://github.com/user-attachments/assets/94d46765-586e-4154-825d-29bc0452da26" />
